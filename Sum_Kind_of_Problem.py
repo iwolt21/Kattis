@@ -12,3 +12,6 @@ for i in range(1, sets+1):
 for key in inputs:
     print("{} {} {} {}".format(key, inputs[key][0], inputs[key][1], inputs[key][2]))
 print("This is a git test")
+
+
+
