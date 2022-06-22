@@ -35,9 +35,6 @@ class Heap:
     def min(self):
         return self.Heap[1]
 
-    def __str__(self):
-
-
 
 info = sys.stdin.readline().split()
 while info != ["-1", "-1"]:
