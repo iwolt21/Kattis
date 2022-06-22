@@ -1,6 +1,6 @@
 import math
 
-statues = int(input())
+statues = int(sys.stdin)
 if statues <= 3:
     print(statues)
 else:
